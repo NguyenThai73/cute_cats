@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4464559312",
+    "project_id": "catcat-fd730",
+    "storage_bucket": "catcat-fd730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4464559312:android:0ea8dc1c8e270e1eb4cad5",
+        "android_client_info": {
+          "package_name": "com.example.cat_lover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-VeAx5wqZEvgIvmIu6Ou8iNPtdg7Wqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4464559312:android:3a02f61a07a293a7b4cad5",
+        "android_client_info": {
+          "package_name": "com.luonglaxxx.catLover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-VeAx5wqZEvgIvmIu6Ou8iNPtdg7Wqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
